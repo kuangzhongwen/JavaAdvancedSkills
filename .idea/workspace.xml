@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="d07b31e8-f385-425f-95c7-b491c69eff37" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,23 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="_02_Sortings.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_02_Sortings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="109" selection-start-line="2" selection-start-column="109" selection-end-line="2" selection-end-column="109" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="251">
+              <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -44,64 +35,92 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>bubbleSortBetter</find>
-      <find>selectSort</find>
-      <find>sort</find>
-      <find>数据结构与算法系列 目录:</find>
-      <find>https://blog.csdn.net/l_215851356/article/details/77659462</find>
-      <find>Segment</find>
-      <find>segments</find>
-      <find>main</find>
-      <find>Node</find>
-      <find>toOctalString</find>
-      <find>面试官</find>
+      <find>size()</find>
+      <find>size</find>
+      <find>swap</find>
+      <find>ROTATE_THRESHOLD</find>
+      <find>UnmodifiableRandomAccessList</find>
+      <find>proxyClassCache</find>
+      <find>clear</find>
+      <find>get</find>
+      <find>queue</find>
+      <find>expungeStaleEntries</find>
+      <find>randomNumberGenerator</find>
+      <find>nextFloat</find>
+      <find>static final</find>
+      <find>BigInteger</find>
+      <find>BigInteger(</find>
+      <find>12c</find>
+      <find>public BigInteger(byte[] val)</find>
+      <find>12C</find>
+      <find>valueOf</find>
+      <find>BigDecimal</find>
+      <find>BigDecimal(</find>
+      <find>public static BigDecimal valueOf</find>
+      <find>divide(</find>
+      <find>keyMap</find>
+      <find>hex</find>
+      <find>001</find>
+      <find>image1</find>
+      <find>completedTaskCount</find>
+      <find>submit</find>
+      <find>number</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/Algorithm.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/DataStructure.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/DataStructureAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/DataStructureAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/Sortings.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/Searchings.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/AndroidStruct.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/_04_Fingers_Offers.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/ClassicSortingAlgorithms.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/_05_Java_Classic_50.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/Universals.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/BitHex.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/Threads.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_04_java_universals/JavaUniversals.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_05_Java_Classic_50.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_04_Leet_Code.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_03_AndroidStruct.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_02_Searchings.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/BasicConcepts.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_00_BasicConcepts.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_01_Sortings.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_01_BasicConcepts.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_08_Leet_Code.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_09_Java_Classic_50.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_08_Java_Classic_50.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/Java_Struct_Algo_Test.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/Test.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_02_Sortings.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_03_Searchings.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_04_Tree.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_05_Heap.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_06_Graph.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_02_bit_hex/_04_Bit_Practice.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_03_thread/_01_Thread_Top50.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_03_thread/_02_Thread_Common_Questions.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_07_AndroidStruct.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_08_Java_Struct_Algo_Test.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_02_bit_hex/_01_Hex.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_02_bit_hex/_02_Hex_Practice.java" />
-        <option value="$PROJECT_DIR$/src/io/kzw/interview/_02_bit_hex/_03_Bit.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestOptionalStringJoiner.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestCoder.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/Coder.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestReflection.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/SysConstant.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestGeneric.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/MyDocumentedtAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/APIUtils.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestDynamicProxy.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestReference.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestWeakHashMap.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestRandom.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestBigNumber.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestRegular.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestNetwork.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestBase64.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestSymmetricEncryp.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/Hex.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestMessageDigest.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/RC4.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestSymmetricEncry.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestAsymmetricEncrypt.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/ECCoder.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/DSACoder.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestSalt.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestDesignMode.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestCreateDesignMode.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestStructDesignModel.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestBehaviorDesignModel.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_01_BasicConcepts.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_04_Tree.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/Handwriting.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestJavaClass.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestJNI.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestServerApi.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/Recycler.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/Testing.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/Algorithms.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/Sorts.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/DiDi.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/LeetCode_ByteDance.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/MeiTuan.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/LeetCode_01.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/Test.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/executors/TraceableThreadPoolExecutor.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/Clean.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/main/Test.java" />
+        <option value="$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_02_Sortings.java" />
       </list>
     </option>
   </component>
@@ -120,7 +139,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="838" />
@@ -131,6 +150,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,23 +170,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="advance" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-advanced-skills" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-advanced-skills" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="advance" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_struct_algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,58 +206,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Clean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.kzw.advance.main.Clean" />
+      <module name="java-advanced-skills" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.kzw.advance.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.kzw.advance.main.LinkedList" />
+      <module name="java-advanced-skills" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.kzw.advance.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Sorts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.kzw.advance.main.Sorts" />
+      <module name="java-advanced-skills" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.kzw.advance.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.kzw.advance.main.Test" />
+      <module name="java-advanced-skills" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.kzw.advance.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.kzw.advance.Test" />
+      <option name="MAIN_CLASS_NAME" value="io.kzw.advance.csdn_blog.Test" />
       <module name="java-advanced-skills" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.kzw.advance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="_02_Thread_Common_Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.kzw.advance._03_thread._02_Thread_Common_Questions" />
-      <module name="java-advanced-skills" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.kzw.advance._03_thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="_03_Bit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.kzw.advance._02_bit_hex._03_Bit" />
-      <module name="java-advanced-skills" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.kzw.advance._02_bit_hex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="_04_Bit_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.kzw.advance._02_bit_hex._04_Bit_Practice" />
-      <module name="java-advanced-skills" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.kzw.advance._02_bit_hex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="_08_Java_Struct_Algo_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.kzw.advance._01_struct_algorithm._08_Java_Struct_Algo_Test" />
-      <module name="java-advanced-skills" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.kzw.advance._01_struct_algorithm.*" />
+          <option name="PATTERN" value="io.kzw.advance.csdn_blog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,19 +304,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application._03_Bit" />
-      <item itemvalue="Application._04_Bit_Practice" />
-      <item itemvalue="Application._02_Thread_Common_Questions" />
-      <item itemvalue="Application._08_Java_Struct_Algo_Test" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.LinkedList" />
+      <item itemvalue="Application.Sorts" />
+      <item itemvalue="Application.Clean" />
+      <item itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Clean" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application._08_Java_Struct_Algo_Test" />
-        <item itemvalue="Application._02_Thread_Common_Questions" />
-        <item itemvalue="Application._04_Bit_Practice" />
-        <item itemvalue="Application._03_Bit" />
+        <item itemvalue="Application.Sorts" />
+        <item itemvalue="Application.LinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -354,12 +381,148 @@
       <workItem from="1539355078836" duration="447000" />
       <workItem from="1539355573293" duration="101000" />
       <workItem from="1539355730288" duration="25000" />
-      <workItem from="1539355761340" duration="432000" />
+      <workItem from="1539355761340" duration="472000" />
+      <workItem from="1539596300666" duration="375000" />
+      <workItem from="1539678593094" duration="726000" />
+      <workItem from="1539783209125" duration="4000" />
+      <workItem from="1540195388384" duration="676000" />
+      <workItem from="1542700482116" duration="96000" />
+      <workItem from="1543207143362" duration="7034000" />
+      <workItem from="1543293410900" duration="12979000" />
+      <workItem from="1543371720660" duration="9154000" />
+      <workItem from="1543389259263" duration="3619000" />
+      <workItem from="1543457536139" duration="18880000" />
+      <workItem from="1543486734464" duration="597000" />
+      <workItem from="1543487531828" duration="2535000" />
+      <workItem from="1543501404257" duration="11241000" />
+      <workItem from="1543547208100" duration="21964000" />
+      <workItem from="1543591217809" duration="27000" />
+      <workItem from="1543716687616" duration="15249000" />
+      <workItem from="1543759892610" duration="725000" />
+      <workItem from="1543803144606" duration="837000" />
+      <workItem from="1543812507075" duration="392000" />
+      <workItem from="1543813343578" duration="21202000" />
+      <workItem from="1544064750009" duration="1782000" />
+      <workItem from="1544071843369" duration="827000" />
+      <workItem from="1544072913194" duration="730000" />
+      <workItem from="1544161126758" duration="593000" />
+      <workItem from="1544171067345" duration="1464000" />
+      <workItem from="1544238444029" duration="8460000" />
+      <workItem from="1544265886831" duration="20000" />
+      <workItem from="1544266654281" duration="120000" />
+      <workItem from="1544426960791" duration="10799000" />
+      <workItem from="1544494587547" duration="18705000" />
+      <workItem from="1544582142684" duration="11531000" />
+      <workItem from="1544612306451" duration="1668000" />
+      <workItem from="1545039811502" duration="1426000" />
+      <workItem from="1545211091312" duration="2361000" />
+      <workItem from="1545281451171" duration="8000" />
+      <workItem from="1545281564892" duration="1185000" />
+      <workItem from="1545304677820" duration="2000" />
+      <workItem from="1545390542379" duration="5386000" />
+      <workItem from="1545396779721" duration="5515000" />
+      <workItem from="1545492207337" duration="5521000" />
+      <workItem from="1545646170490" duration="8893000" />
+      <workItem from="1545713244586" duration="13535000" />
+      <workItem from="1545816746283" duration="13238000" />
+      <workItem from="1545895423306" duration="15239000" />
+      <workItem from="1545986065770" duration="17773000" />
+      <workItem from="1546061133470" duration="27000" />
+      <workItem from="1546075042999" duration="8023000" />
+      <workItem from="1546176478624" duration="8298000" />
+      <workItem from="1546239390925" duration="9000" />
+      <workItem from="1546859195519" duration="10305000" />
+      <workItem from="1547022336801" duration="11890000" />
+      <workItem from="1547096265797" duration="14009000" />
+      <workItem from="1547137613250" duration="3000" />
+      <workItem from="1547178299485" duration="11569000" />
+      <workItem from="1547200729635" duration="8791000" />
+      <workItem from="1547285816904" duration="7644000" />
+      <workItem from="1547387932505" duration="736000" />
+      <workItem from="1547391865096" duration="6602000" />
+      <workItem from="1547454639529" duration="10321000" />
+      <workItem from="1547544427290" duration="7255000" />
+      <workItem from="1547620608044" duration="13624000" />
+      <workItem from="1547700639679" duration="13102000" />
+      <workItem from="1547730206363" duration="6000" />
+      <workItem from="1547782599036" duration="18083000" />
+      <workItem from="1547948327208" duration="3024000" />
+      <workItem from="1548054916208" duration="5141000" />
+      <workItem from="1548079807317" duration="2854000" />
+      <workItem from="1548130442003" duration="9315000" />
+      <workItem from="1548153693317" duration="1536000" />
+      <workItem from="1548241575080" duration="1255000" />
+      <workItem from="1548433603718" duration="44000" />
+      <workItem from="1548485654202" duration="4000" />
+      <workItem from="1548492818277" duration="5419000" />
+      <workItem from="1548660872421" duration="9206000" />
+      <workItem from="1548748393517" duration="9737000" />
+      <workItem from="1548778471485" duration="5762000" />
+      <workItem from="1548927573804" duration="745000" />
+      <workItem from="1548928456699" duration="1015000" />
+      <workItem from="1549955711782" duration="690000" />
+      <workItem from="1549967253036" duration="6064000" />
+      <workItem from="1550055195156" duration="3372000" />
+      <workItem from="1550060363364" duration="612000" />
+      <workItem from="1550070653914" duration="3307000" />
+      <workItem from="1550137544284" duration="3782000" />
+      <workItem from="1550143515120" duration="1699000" />
+      <workItem from="1550209611932" duration="1436000" />
+      <workItem from="1550226530393" duration="1632000" />
+      <workItem from="1550229327640" duration="3216000" />
+      <workItem from="1550487757445" duration="6000" />
+      <workItem from="1550502601447" duration="565000" />
+      <workItem from="1550542876348" duration="1750000" />
+      <workItem from="1550553299647" duration="1756000" />
+      <workItem from="1550567937115" duration="9328000" />
+      <workItem from="1550738652389" duration="2306000" />
+      <workItem from="1550821273721" duration="5718000" />
+      <workItem from="1550833926347" duration="601000" />
+      <workItem from="1551151521597" duration="41000" />
+      <workItem from="1552468645790" duration="255000" />
+      <workItem from="1552903827277" duration="1491000" />
+      <workItem from="1552996344666" duration="27000" />
+      <workItem from="1553488282979" duration="4927000" />
+      <workItem from="1553501327530" duration="3765000" />
+      <workItem from="1553663215790" duration="674000" />
+      <workItem from="1553831651389" duration="185000" />
+      <workItem from="1554176595241" duration="10072000" />
+      <workItem from="1554257669910" duration="6887000" />
+      <workItem from="1554344274990" duration="34000" />
+      <workItem from="1554344346108" duration="323000" />
+      <workItem from="1554344723895" duration="807000" />
+      <workItem from="1554346398047" duration="6000" />
+      <workItem from="1554364326772" duration="734000" />
+      <workItem from="1555640962602" duration="649000" />
+      <workItem from="1555990563597" duration="643000" />
+      <workItem from="1556251527169" duration="5000" />
+      <workItem from="1556266108039" duration="361000" />
+      <workItem from="1556266898660" duration="1769000" />
+      <workItem from="1556433670350" duration="3000" />
+      <workItem from="1556531506212" duration="1211000" />
+      <workItem from="1557238942564" duration="5418000" />
+      <workItem from="1557737975605" duration="6000" />
+      <workItem from="1557975079917" duration="855000" />
+      <workItem from="1558947738090" duration="116000" />
+      <workItem from="1561955158693" duration="61000" />
+      <workItem from="1562560982402" duration="384000" />
+      <workItem from="1562636974848" duration="4000" />
+      <workItem from="1564743922183" duration="739000" />
+      <workItem from="1564991079623" duration="1870000" />
+      <workItem from="1564993022520" duration="1588000" />
+      <workItem from="1564995208796" duration="403000" />
+      <workItem from="1606876051408" duration="2097000" />
+      <workItem from="1607049154084" duration="1701000" />
+      <workItem from="1607052668616" duration="766000" />
+      <workItem from="1607170983207" duration="107000" />
+      <workItem from="1607307431261" duration="266000" />
+      <workItem from="1611828402734" duration="1042000" />
+      <workItem from="1611829651335" duration="1785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="251082000" />
+    <option name="totallyTimeSpent" value="833486000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,38 +534,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="838" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1440" height="830" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928476" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5028612" side_tool="true" weight="0.32928476" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32928476" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.0" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32928476" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.32928476" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928476" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30329043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18454936" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994602" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32928476" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.35492578" />
+      <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,287 +579,338 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_05_Heap.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="154" column="42" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="42" />
+        <state relative-caret-position="354">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_05_Heap.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestStructDesignModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="5" selection-start-line="55" selection-start-column="43" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="210">
+          <caret line="190" column="7" lean-forward="true" selection-start-line="190" selection-start-column="7" selection-end-line="190" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_05_Heap.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="60" lean-forward="true" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
+        <state relative-caret-position="15">
+          <caret line="296" selection-start-line="296" selection-end-line="533" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_02_Sortings.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="247">
+          <caret line="139" column="26" selection-start-line="139" selection-start-column="26" selection-end-line="139" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_03_Searchings.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="285">
+          <caret line="53" selection-start-line="53" selection-end-line="118" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_02_Sortings.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="484">
+          <caret line="1207" column="9" lean-forward="true" selection-start-line="1085" selection-start-column="8" selection-end-line="1207" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_03_Searchings.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestBehaviorDesignModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        <state relative-caret-position="364">
+          <caret line="510" selection-start-line="510" selection-end-line="510" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_07_AndroidStruct.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestJavaClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/ClassicSortingAlgorithms.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestJNI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76275">
-          <caret line="5085" column="7" selection-start-line="5085" selection-start-column="4" selection-end-line="5085" selection-end-column="7" />
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/ClassicSortingAlgorithms.java" />
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/ClassicSortingAlgorithms.java" />
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/ClassicSortingAlgorithms.java" />
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/ClassicSortingAlgorithms.java" />
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/Algorithm.java" />
-    <entry file="file://$PROJECT_DIR$/java-advanced-skills.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Random.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+        <state relative-caret-position="157">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/TestServerApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2960">
-          <caret line="46" column="30" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="334">
+          <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/struct_algorithm/ClassicSortingAlgorithms.java" />
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/BitHex.java" />
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/Threads.java" />
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/BasicConcepts.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/Recycler.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/Algorithms.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/Handwriting.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/net/URLEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="528" column="29" selection-start-line="528" selection-start-column="29" selection-end-line="528" selection-end-column="29" />
+        <state relative-caret-position="-49">
+          <caret line="164" column="25" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+    <entry file="file://$PROJECT_DIR$/Proxy0.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="1043" selection-start-line="81" selection-end-line="1043" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235">
-          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+        <state relative-caret-position="390">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="180" column="17" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/_01_struct_algorithm/_08_Leet_Code.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        <state relative-caret-position="632">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="3332" column="20" selection-start-line="3332" selection-start-column="20" selection-end-line="3332" selection-end-column="20" />
+        <state relative-caret-position="63870">
+          <caret line="4345" column="25" selection-start-line="4345" selection-start-column="25" selection-end-line="4345" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="608" column="4" selection-start-line="608" selection-start-column="4" selection-end-line="608" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="308" column="26" selection-start-line="308" selection-start-column="26" selection-end-line="308" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="228" column="11" selection-start-line="228" selection-start-column="11" selection-end-line="228" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/interview/JavaUniversals.java" />
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_01_BasicConcepts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2475">
-          <caret line="165" column="7" lean-forward="true" selection-start-line="165" selection-start-column="7" selection-end-line="165" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_02_Sortings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_03_Searchings.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/Sorts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_04_Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/LeetCode_ByteDance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="-4496">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_05_Heap.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="139">
+          <caret line="57" column="33" selection-end-line="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_06_Graph.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="-41">
+          <caret line="206" column="5" selection-start-line="193" selection-start-column="50" selection-end-line="206" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_07_AndroidStruct.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="238">
+          <caret line="398" column="30" selection-start-line="398" selection-start-column="30" selection-end-line="398" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_08_Java_Struct_Algo_Test.java">
+    <entry file="file://$PROJECT_DIR$/coder.ser">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/DiDi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="2644">
+          <caret line="539" column="6" lean-forward="true" selection-start-line="539" selection-start-column="6" selection-end-line="539" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_02_bit_hex/_01_Hex.java">
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/LeetCode_01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="156">
+          <caret line="485" selection-start-line="485" selection-start-column="2" selection-end-line="498" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_02_bit_hex/_02_Hex_Practice.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_02_bit_hex/_03_Bit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_02_bit_hex/_04_Bit_Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state relative-caret-position="229">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_03_thread/_01_Thread_Top50.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="-5741">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="197" column="11" selection-start-line="197" selection-start-column="11" selection-end-line="197" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_03_thread/_02_Thread_Common_Questions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="-186">
+          <caret line="529" column="55" selection-start-line="529" selection-start-column="55" selection-end-line="529" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/Test.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="1347">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="206">
+          <caret line="88" column="29" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="109" selection-start-line="2" selection-start-column="109" selection-end-line="2" selection-end-column="109" />
-          </first_editor>
-          <second_editor />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-353">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="1189" column="11" selection-start-line="1189" selection-start-column="11" selection-end-line="1189" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-853">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/executors/TraceableThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/csdn_blog/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/Clean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="186" column="44" selection-start-line="186" selection-start-column="44" selection-end-line="186" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="1647" column="15" selection-start-line="1647" selection-start-column="15" selection-end-line="1647" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/MeiTuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="98" column="29" lean-forward="true" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/main/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_05_Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14737">
+          <caret line="529" column="39" lean-forward="true" selection-start-line="529" selection-start-column="39" selection-end-line="529" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_06_Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25390">
+          <caret line="76" column="11" lean-forward="true" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_07_AndroidStruct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5138">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_03_Searchings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11415">
+          <caret line="762" selection-end-line="779" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_04_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_08_Java_Struct_Algo_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="486" column="24" selection-start-line="486" selection-start-column="24" selection-end-line="486" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_01_BasicConcepts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="166" column="6" lean-forward="true" selection-start-line="166" selection-start-column="6" selection-end-line="166" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/kzw/advance/_01_struct_algorithm/_02_Sortings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
         </state>
       </provider>
     </entry>
